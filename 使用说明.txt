@@ -1,0 +1,5 @@
+使用的查询接口是淘宝查询手机号归属地接口，感谢！
+使用方法：
+	cmd命令行下使用：首先cd到php安装路径下，使用命令:php php文件名（绝对路径下PHP文件），例如：D:\phpStudy\PHPTutorial\php\php-5.6.27-nts>php C:\Users\pipix\Desktop\phone.php。
+	sublime text有运行环境的前提下直接ctrl+b直接运行即可。
+	注意事项：脚本中，读取需要查询手机号归属地的文件时，注意改路径。将查询后的结果写入文件时，要记住路径避免找不到。最好的方法就是，全都写成绝对路径。
